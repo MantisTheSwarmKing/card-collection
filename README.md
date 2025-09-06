@@ -1,5 +1,4 @@
-Project Structure
-
+## Project Structure
 card-image-scraper/
 ├─ main.py # Entry point
 ├─ config.py # Paths, device, user-agent configuration
