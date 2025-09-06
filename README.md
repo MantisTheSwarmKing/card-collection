@@ -1,17 +1,16 @@
 Project Structure
 
-
 project/
 │
-├─ main.py                 # Entry point
-├─ config.py               # Paths, device, user-agent configuration
-├─ clip_utils.py           # CLIP model loading and image similarity functions
-├─ playwright_utils.py     # Playwright scraping and image processing
-├─ database.py             # JSON database read/write utilities
-├─ image_utils.py          # Image helpers and preprocessing
-├─ data/images/            # Input images
-├─ output/                 # Annotated images and database
-└─ requirements.txt        # Python dependencies
+├─ main.py # Entry point
+├─ config.py # Paths, device, user-agent configuration
+├─ clip_utils.py # CLIP model loading and image similarity functions
+├─ playwright_utils.py # Playwright scraping and image processing
+├─ database.py # JSON database read/write utilities
+├─ image_utils.py # Image helpers and preprocessing
+├─ data/images/ # Input images
+├─ output/ # Annotated images and database
+└─ requirements.txt # Python dependencies
 
 Installation
 
