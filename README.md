@@ -1,6 +1,6 @@
 ## Project Structure
 
-![Project Structure](structure.png)
+![Project Structure](stucture.png)
 
 Installation
 
