@@ -1,0 +1,11 @@
+playwright
+requests
+Pillow
+torch
+torchvision
+timm
+numpy
+transformers
+scikit-image
+open_clip_torch
+matplotlib
