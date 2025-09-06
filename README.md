@@ -1,17 +1,18 @@
 ## Project Structure
+
 card-image-scraper/
-├─ main.py # Entry point
-├─ config.py # Paths, device, user-agent configuration
-├─ clip_utils.py # CLIP model loading & image similarity functions
-├─ playwright_utils.py # Playwright scraping & image processing
-├─ database.py # JSON database read/write utilities
-├─ image_utils.py # Image helpers and preprocessing
+├─ main.py                 # Entry point
+├─ config.py               # Paths, device, user-agent configuration
+├─ clip_utils.py           # CLIP model loading & image similarity functions
+├─ playwright_utils.py     # Playwright scraping & image processing
+├─ database.py             # JSON database read/write utilities
+├─ image_utils.py          # Image helpers and preprocessing
 ├─ data/
-│ └─ images/ # Input images
+│   └─ images/             # Input images
 ├─ output/
-│ ├─ matches/ # Annotated images
-│ └─ database/ # JSON database
-└─ requirements.txt # Python dependencies
+│   ├─ matches/            # Annotated images
+│   └─ database/           # JSON database
+└─ requirements.txt        # Python dependencies
 
 Installation
 
